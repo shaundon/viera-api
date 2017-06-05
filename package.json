@@ -1,6 +1,6 @@
 {
   "name": "viera-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple interface for controlling Panasonic Viera TVs ",
   "main": "index.js",
   "author": "Shaun Donnelly <@shaundon>",
